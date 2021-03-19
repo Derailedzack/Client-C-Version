@@ -1,0 +1,3 @@
+F:/VS Code Projects/C/Client C Version/build/CMakeFiles/Client_C___Version_.dir
+F:/VS Code Projects/C/Client C Version/build/CMakeFiles/edit_cache.dir
+F:/VS Code Projects/C/Client C Version/build/CMakeFiles/rebuild_cache.dir

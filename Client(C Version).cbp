@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Client(C Version)" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Client(C Version)" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add option="-DOLD_CODE" />
+					<Add option="-DHAVE_GLAD_H" />
+					<Add option="-DDISABLE_RENDERING" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Client(C Version)" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="deps/include/lua" />
+			<Add directory="deps/include/sdl2" />
+			<Add directory="deps/include/gl/glad" />
+			<Add directory="deps/include/gl" />
+			<Add directory="deps/include" />
+		</Compiler>
+		<Linker>
+			<Add option="-lreadline -lgdi32 -lglad -lSDL2.dll -lSDL2_net -llua5 -lsetupapi -lhid -lole32 -loleaut32 -lglew" />
+			<Add directory="deps/libs" />
+		</Linker>
+		<Unit filename="Audio.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Audio.h" />
+		<Unit filename="CMakeLists.txt" />
+		<Unit filename="Client(C Version).cbp" />
+		<Unit filename="Client.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Client.h" />
+		<Unit filename="ClientLoader.h" />
+		<Unit filename="Client_log.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Client_log.h" />
+		<Unit filename="CommandInt.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="CommandInt.h" />
+		<Unit filename="Config.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Config.h" />
+		<Unit filename="CuteSound.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="CuteSound.h" />
+		<Unit filename="DirectSndAudio.h" />
+		<Unit filename="Entity.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Entity.h" />
+		<Unit filename="EntityCollisionTest.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="EntityCollisionTest.h" />
+		<Unit filename="EntityLoader.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="EntityLoader.h" />
+		<Unit filename="EntityState.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="EntityState.h" />
+		<Unit filename="EntityUtils.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="EntityUtils.h" />
+		<Unit filename="EntityUtilsLoader.h" />
+		<Unit filename="FastNoiseLite.h" />
+		<Unit filename="GDIDisplay.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="GDIDisplay.h" />
+		<Unit filename="GLWarpper.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="GLWarpper.h" />
+		<Unit filename="GameState.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="GameState.h" />
+		<Unit filename="GameStateLoader.h" />
+		<Unit filename="INIConfig.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="INIConfig.h" />
+		<Unit filename="Inventory.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Inventory.h" />
+		<Unit filename="ItemLUA.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="LevelLoader.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="LevelLoader.h" />
+		<Unit filename="LuaGameState.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="LuaGameState.h" />
+		<Unit filename="LuaUtils.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="LuaUtils.h" />
+		<Unit filename="Main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Main.h" />
+		<Unit filename="Modloader.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Modloader.h" />
+		<Unit filename="Note" />
+		<Unit filename="OptionsDLG.cpp" />
+		<Unit filename="OptionsDLG.h" />
+		<Unit filename="OrgFile.h" />
+		<Unit filename="Player.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Player.h" />
+		<Unit filename="Render.h" />
+		<Unit filename="RenderDebug.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="RenderDebug.h" />
+		<Unit filename="RenderEntities.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="RenderEntities.h" />
+		<Unit filename="RenderUI.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="RenderUI.h" />
+		<Unit filename="SDL2_Inventory.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SDL2_Inventory.h" />
+		<Unit filename="SDL2_Window.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SDL2_Window.h" />
+		<Unit filename="SDLSound.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SDLSound.h" />
+		<Unit filename="Script.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Script.h" />
+		<Unit filename="ScriptLoader.h" />
+		<Unit filename="SoundLoader.h" />
+		<Unit filename="TestLevel.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TestLevel.h" />
+		<Unit filename="UIutils.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="UIutils.h" />
+		<Unit filename="UserdataTest.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="UserdataTest.h" />
+		<Unit filename="Window.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Window.h" />
+		<Unit filename="WindowLoader.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="WindowLoader.h" />
+		<Unit filename="clist.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="clist.h" />
+		<Unit filename="cute_c2.h" />
+		<Unit filename="itemLUA.h" />
+		<Unit filename="nuklear.h" />
+		<Unit filename="scripts/Test.s" />
+		<Unit filename="test_item.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="test_item.h" />
+		<Unit filename="ui_test.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ui_test.h" />
+		<Unit filename="wxsmith/OptionsDLG.wxs" />
+		<Extensions>
+			<wxsmith version="1">
+				<resources>
+					<wxDialog wxs="wxsmith/OptionsDLG.wxs" src="OptionsDLG.cpp" hdr="OptionsDLG.h" fwddecl="0" i18n="1" name="OptionsDLG" language="CPP" />
+				</resources>
+			</wxsmith>
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

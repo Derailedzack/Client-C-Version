@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<wxsmith>
+	<object class="wxDialog" name="OptionsDLG">
+		<size>514,450</size>
+		<pos_arg>1</pos_arg>
+		<size_arg>1</size_arg>
+		<object class="wxChoice" name="ID_CHOICE1" variable="Choice1" member="yes">
+			<content>
+				<item>OpenGL</item>
+				<item>SDL 2</item>
+				<item>GDI +</item>
+			</content>
+			<pos>192,216</pos>
+		</object>
+		<object class="wxStaticText" name="ID_STATICTEXT1" variable="StaticText1" member="yes">
+			<label>WindowBackend</label>
+			<pos>96,216</pos>
+		</object>
+		<object class="wxButton" name="ID_BUTTON1" variable="Button1" member="yes">
+			<label>Start</label>
+			<pos>432,416</pos>
+			<handler function="OnButton1Click" entry="EVT_BUTTON" />
+		</object>
+		<object class="wxButton" name="ID_BUTTON2" variable="Button2" member="yes">
+			<label>Label</label>
+			<pos>344,416</pos>
+		</object>
+	</object>
+</wxsmith>

@@ -1,0 +1,8 @@
+The reason why there are veriable declaration in source files is to avoid a compiler error
+
+Should the server have the ablity to accept or reject modded clients
+
+If the server accepts modded clients it will ignore the name
+
+Right now the client doesn't use the Version Struct,But it will be used when I add commands to the client
+structs are structures.There the equviolent to a c++ class

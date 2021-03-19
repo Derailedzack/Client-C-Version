@@ -1,0 +1,177 @@
+[
+{
+  "directory": "F:/VS Code Projects/C/Client C Version/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DDISABLE_RENDERING -DHAVE_GLAD_H -D__OLD_CODE -I../deps/include/lua -I../deps/include/sdl2 -I../deps/include/gl -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\Client_C___Version_.dir\\Main.c.obj -c \"F:\\VS Code Projects\\C\\Client C Version\\Main.c\"",
+  "file": "F:/VS Code Projects/C/Client C Version/Main.c"
+},
+{
+  "directory": "F:/VS Code Projects/C/Client C Version/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DDISABLE_RENDERING -DHAVE_GLAD_H -D__OLD_CODE -I../deps/include/lua -I../deps/include/sdl2 -I../deps/include/gl -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\Client_C___Version_.dir\\Audio.c.obj -c \"F:\\VS Code Projects\\C\\Client C Version\\Audio.c\"",
+  "file": "F:/VS Code Projects/C/Client C Version/Audio.c"
+},
+{
+  "directory": "F:/VS Code Projects/C/Client C Version/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DDISABLE_RENDERING -DHAVE_GLAD_H -D__OLD_CODE -I../deps/include/lua -I../deps/include/sdl2 -I../deps/include/gl -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\Client_C___Version_.dir\\Client.c.obj -c \"F:\\VS Code Projects\\C\\Client C Version\\Client.c\"",
+  "file": "F:/VS Code Projects/C/Client C Version/Client.c"
+},
+{
+  "directory": "F:/VS Code Projects/C/Client C Version/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DDISABLE_RENDERING -DHAVE_GLAD_H -D__OLD_CODE -I../deps/include/lua -I../deps/include/sdl2 -I../deps/include/gl -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\Client_C___Version_.dir\\Client_log.c.obj -c \"F:\\VS Code Projects\\C\\Client C Version\\Client_log.c\"",
+  "file": "F:/VS Code Projects/C/Client C Version/Client_log.c"
+},
+{
+  "directory": "F:/VS Code Projects/C/Client C Version/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DDISABLE_RENDERING -DHAVE_GLAD_H -D__OLD_CODE -I../deps/include/lua -I../deps/include/sdl2 -I../deps/include/gl -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\Client_C___Version_.dir\\CuteSound.c.obj -c \"F:\\VS Code Projects\\C\\Client C Version\\CuteSound.c\"",
+  "file": "F:/VS Code Projects/C/Client C Version/CuteSound.c"
+},
+{
+  "directory": "F:/VS Code Projects/C/Client C Version/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DDISABLE_RENDERING -DHAVE_GLAD_H -D__OLD_CODE -I../deps/include/lua -I../deps/include/sdl2 -I../deps/include/gl -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\Client_C___Version_.dir\\Entity.c.obj -c \"F:\\VS Code Projects\\C\\Client C Version\\Entity.c\"",
+  "file": "F:/VS Code Projects/C/Client C Version/Entity.c"
+},
+{
+  "directory": "F:/VS Code Projects/C/Client C Version/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DDISABLE_RENDERING -DHAVE_GLAD_H -D__OLD_CODE -I../deps/include/lua -I../deps/include/sdl2 -I../deps/include/gl -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\Client_C___Version_.dir\\EntityCollisionTest.c.obj -c \"F:\\VS Code Projects\\C\\Client C Version\\EntityCollisionTest.c\"",
+  "file": "F:/VS Code Projects/C/Client C Version/EntityCollisionTest.c"
+},
+{
+  "directory": "F:/VS Code Projects/C/Client C Version/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DDISABLE_RENDERING -DHAVE_GLAD_H -D__OLD_CODE -I../deps/include/lua -I../deps/include/sdl2 -I../deps/include/gl -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\Client_C___Version_.dir\\EntityLoader.c.obj -c \"F:\\VS Code Projects\\C\\Client C Version\\EntityLoader.c\"",
+  "file": "F:/VS Code Projects/C/Client C Version/EntityLoader.c"
+},
+{
+  "directory": "F:/VS Code Projects/C/Client C Version/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DDISABLE_RENDERING -DHAVE_GLAD_H -D__OLD_CODE -I../deps/include/lua -I../deps/include/sdl2 -I../deps/include/gl -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\Client_C___Version_.dir\\EntityState.c.obj -c \"F:\\VS Code Projects\\C\\Client C Version\\EntityState.c\"",
+  "file": "F:/VS Code Projects/C/Client C Version/EntityState.c"
+},
+{
+  "directory": "F:/VS Code Projects/C/Client C Version/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DDISABLE_RENDERING -DHAVE_GLAD_H -D__OLD_CODE -I../deps/include/lua -I../deps/include/sdl2 -I../deps/include/gl -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\Client_C___Version_.dir\\EntityUtils.c.obj -c \"F:\\VS Code Projects\\C\\Client C Version\\EntityUtils.c\"",
+  "file": "F:/VS Code Projects/C/Client C Version/EntityUtils.c"
+},
+{
+  "directory": "F:/VS Code Projects/C/Client C Version/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DDISABLE_RENDERING -DHAVE_GLAD_H -D__OLD_CODE -I../deps/include/lua -I../deps/include/sdl2 -I../deps/include/gl -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\Client_C___Version_.dir\\GameState.c.obj -c \"F:\\VS Code Projects\\C\\Client C Version\\GameState.c\"",
+  "file": "F:/VS Code Projects/C/Client C Version/GameState.c"
+},
+{
+  "directory": "F:/VS Code Projects/C/Client C Version/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DDISABLE_RENDERING -DHAVE_GLAD_H -D__OLD_CODE -I../deps/include/lua -I../deps/include/sdl2 -I../deps/include/gl -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\Client_C___Version_.dir\\GDIDisplay.c.obj -c \"F:\\VS Code Projects\\C\\Client C Version\\GDIDisplay.c\"",
+  "file": "F:/VS Code Projects/C/Client C Version/GDIDisplay.c"
+},
+{
+  "directory": "F:/VS Code Projects/C/Client C Version/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DDISABLE_RENDERING -DHAVE_GLAD_H -D__OLD_CODE -I../deps/include/lua -I../deps/include/sdl2 -I../deps/include/gl -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\Client_C___Version_.dir\\GLWarpper.c.obj -c \"F:\\VS Code Projects\\C\\Client C Version\\GLWarpper.c\"",
+  "file": "F:/VS Code Projects/C/Client C Version/GLWarpper.c"
+},
+{
+  "directory": "F:/VS Code Projects/C/Client C Version/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DDISABLE_RENDERING -DHAVE_GLAD_H -D__OLD_CODE -I../deps/include/lua -I../deps/include/sdl2 -I../deps/include/gl -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\Client_C___Version_.dir\\INIConfig.c.obj -c \"F:\\VS Code Projects\\C\\Client C Version\\INIConfig.c\"",
+  "file": "F:/VS Code Projects/C/Client C Version/INIConfig.c"
+},
+{
+  "directory": "F:/VS Code Projects/C/Client C Version/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DDISABLE_RENDERING -DHAVE_GLAD_H -D__OLD_CODE -I../deps/include/lua -I../deps/include/sdl2 -I../deps/include/gl -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\Client_C___Version_.dir\\Inventory.c.obj -c \"F:\\VS Code Projects\\C\\Client C Version\\Inventory.c\"",
+  "file": "F:/VS Code Projects/C/Client C Version/Inventory.c"
+},
+{
+  "directory": "F:/VS Code Projects/C/Client C Version/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DDISABLE_RENDERING -DHAVE_GLAD_H -D__OLD_CODE -I../deps/include/lua -I../deps/include/sdl2 -I../deps/include/gl -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\Client_C___Version_.dir\\ItemLUA.c.obj -c \"F:\\VS Code Projects\\C\\Client C Version\\ItemLUA.c\"",
+  "file": "F:/VS Code Projects/C/Client C Version/ItemLUA.c"
+},
+{
+  "directory": "F:/VS Code Projects/C/Client C Version/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DDISABLE_RENDERING -DHAVE_GLAD_H -D__OLD_CODE -I../deps/include/lua -I../deps/include/sdl2 -I../deps/include/gl -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\Client_C___Version_.dir\\LevelLoader.c.obj -c \"F:\\VS Code Projects\\C\\Client C Version\\LevelLoader.c\"",
+  "file": "F:/VS Code Projects/C/Client C Version/LevelLoader.c"
+},
+{
+  "directory": "F:/VS Code Projects/C/Client C Version/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DDISABLE_RENDERING -DHAVE_GLAD_H -D__OLD_CODE -I../deps/include/lua -I../deps/include/sdl2 -I../deps/include/gl -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\Client_C___Version_.dir\\LuaGameState.c.obj -c \"F:\\VS Code Projects\\C\\Client C Version\\LuaGameState.c\"",
+  "file": "F:/VS Code Projects/C/Client C Version/LuaGameState.c"
+},
+{
+  "directory": "F:/VS Code Projects/C/Client C Version/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DDISABLE_RENDERING -DHAVE_GLAD_H -D__OLD_CODE -I../deps/include/lua -I../deps/include/sdl2 -I../deps/include/gl -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\Client_C___Version_.dir\\LuaUtils.c.obj -c \"F:\\VS Code Projects\\C\\Client C Version\\LuaUtils.c\"",
+  "file": "F:/VS Code Projects/C/Client C Version/LuaUtils.c"
+},
+{
+  "directory": "F:/VS Code Projects/C/Client C Version/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DDISABLE_RENDERING -DHAVE_GLAD_H -D__OLD_CODE -I../deps/include/lua -I../deps/include/sdl2 -I../deps/include/gl -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\Client_C___Version_.dir\\Modloader.c.obj -c \"F:\\VS Code Projects\\C\\Client C Version\\Modloader.c\"",
+  "file": "F:/VS Code Projects/C/Client C Version/Modloader.c"
+},
+{
+  "directory": "F:/VS Code Projects/C/Client C Version/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DDISABLE_RENDERING -DHAVE_GLAD_H -D__OLD_CODE -I../deps/include/lua -I../deps/include/sdl2 -I../deps/include/gl -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\Client_C___Version_.dir\\Player.c.obj -c \"F:\\VS Code Projects\\C\\Client C Version\\Player.c\"",
+  "file": "F:/VS Code Projects/C/Client C Version/Player.c"
+},
+{
+  "directory": "F:/VS Code Projects/C/Client C Version/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DDISABLE_RENDERING -DHAVE_GLAD_H -D__OLD_CODE -I../deps/include/lua -I../deps/include/sdl2 -I../deps/include/gl -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\Client_C___Version_.dir\\RenderDebug.c.obj -c \"F:\\VS Code Projects\\C\\Client C Version\\RenderDebug.c\"",
+  "file": "F:/VS Code Projects/C/Client C Version/RenderDebug.c"
+},
+{
+  "directory": "F:/VS Code Projects/C/Client C Version/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DDISABLE_RENDERING -DHAVE_GLAD_H -D__OLD_CODE -I../deps/include/lua -I../deps/include/sdl2 -I../deps/include/gl -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\Client_C___Version_.dir\\RenderEntities.c.obj -c \"F:\\VS Code Projects\\C\\Client C Version\\RenderEntities.c\"",
+  "file": "F:/VS Code Projects/C/Client C Version/RenderEntities.c"
+},
+{
+  "directory": "F:/VS Code Projects/C/Client C Version/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DDISABLE_RENDERING -DHAVE_GLAD_H -D__OLD_CODE -I../deps/include/lua -I../deps/include/sdl2 -I../deps/include/gl -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\Client_C___Version_.dir\\RenderUI.c.obj -c \"F:\\VS Code Projects\\C\\Client C Version\\RenderUI.c\"",
+  "file": "F:/VS Code Projects/C/Client C Version/RenderUI.c"
+},
+{
+  "directory": "F:/VS Code Projects/C/Client C Version/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DDISABLE_RENDERING -DHAVE_GLAD_H -D__OLD_CODE -I../deps/include/lua -I../deps/include/sdl2 -I../deps/include/gl -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\Client_C___Version_.dir\\Script.c.obj -c \"F:\\VS Code Projects\\C\\Client C Version\\Script.c\"",
+  "file": "F:/VS Code Projects/C/Client C Version/Script.c"
+},
+{
+  "directory": "F:/VS Code Projects/C/Client C Version/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DDISABLE_RENDERING -DHAVE_GLAD_H -D__OLD_CODE -I../deps/include/lua -I../deps/include/sdl2 -I../deps/include/gl -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\Client_C___Version_.dir\\SDL2_Window.c.obj -c \"F:\\VS Code Projects\\C\\Client C Version\\SDL2_Window.c\"",
+  "file": "F:/VS Code Projects/C/Client C Version/SDL2_Window.c"
+},
+{
+  "directory": "F:/VS Code Projects/C/Client C Version/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DDISABLE_RENDERING -DHAVE_GLAD_H -D__OLD_CODE -I../deps/include/lua -I../deps/include/sdl2 -I../deps/include/gl -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\Client_C___Version_.dir\\SDLSound.c.obj -c \"F:\\VS Code Projects\\C\\Client C Version\\SDLSound.c\"",
+  "file": "F:/VS Code Projects/C/Client C Version/SDLSound.c"
+},
+{
+  "directory": "F:/VS Code Projects/C/Client C Version/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DDISABLE_RENDERING -DHAVE_GLAD_H -D__OLD_CODE -I../deps/include/lua -I../deps/include/sdl2 -I../deps/include/gl -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\Client_C___Version_.dir\\test_item.c.obj -c \"F:\\VS Code Projects\\C\\Client C Version\\test_item.c\"",
+  "file": "F:/VS Code Projects/C/Client C Version/test_item.c"
+},
+{
+  "directory": "F:/VS Code Projects/C/Client C Version/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DDISABLE_RENDERING -DHAVE_GLAD_H -D__OLD_CODE -I../deps/include/lua -I../deps/include/sdl2 -I../deps/include/gl -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\Client_C___Version_.dir\\TestLevel.c.obj -c \"F:\\VS Code Projects\\C\\Client C Version\\TestLevel.c\"",
+  "file": "F:/VS Code Projects/C/Client C Version/TestLevel.c"
+},
+{
+  "directory": "F:/VS Code Projects/C/Client C Version/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DDISABLE_RENDERING -DHAVE_GLAD_H -D__OLD_CODE -I../deps/include/lua -I../deps/include/sdl2 -I../deps/include/gl -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\Client_C___Version_.dir\\UserdataTest.c.obj -c \"F:\\VS Code Projects\\C\\Client C Version\\UserdataTest.c\"",
+  "file": "F:/VS Code Projects/C/Client C Version/UserdataTest.c"
+},
+{
+  "directory": "F:/VS Code Projects/C/Client C Version/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DDISABLE_RENDERING -DHAVE_GLAD_H -D__OLD_CODE -I../deps/include/lua -I../deps/include/sdl2 -I../deps/include/gl -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\Client_C___Version_.dir\\Window.c.obj -c \"F:\\VS Code Projects\\C\\Client C Version\\Window.c\"",
+  "file": "F:/VS Code Projects/C/Client C Version/Window.c"
+},
+{
+  "directory": "F:/VS Code Projects/C/Client C Version/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DDISABLE_RENDERING -DHAVE_GLAD_H -D__OLD_CODE -I../deps/include/lua -I../deps/include/sdl2 -I../deps/include/gl -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\Client_C___Version_.dir\\WindowLoader.c.obj -c \"F:\\VS Code Projects\\C\\Client C Version\\WindowLoader.c\"",
+  "file": "F:/VS Code Projects/C/Client C Version/WindowLoader.c"
+},
+{
+  "directory": "F:/VS Code Projects/C/Client C Version/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DDISABLE_RENDERING -DHAVE_GLAD_H -D__OLD_CODE -I../deps/include/lua -I../deps/include/sdl2 -I../deps/include/gl -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\Client_C___Version_.dir\\SDL2_Inventory.c.obj -c \"F:\\VS Code Projects\\C\\Client C Version\\SDL2_Inventory.c\"",
+  "file": "F:/VS Code Projects/C/Client C Version/SDL2_Inventory.c"
+},
+{
+  "directory": "F:/VS Code Projects/C/Client C Version/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DDISABLE_RENDERING -DHAVE_GLAD_H -D__OLD_CODE -I../deps/include/lua -I../deps/include/sdl2 -I../deps/include/gl -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\Client_C___Version_.dir\\clist.c.obj -c \"F:\\VS Code Projects\\C\\Client C Version\\clist.c\"",
+  "file": "F:/VS Code Projects/C/Client C Version/clist.c"
+},
+{
+  "directory": "F:/VS Code Projects/C/Client C Version/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DDISABLE_RENDERING -DHAVE_GLAD_H -D__OLD_CODE -I../deps/include/lua -I../deps/include/sdl2 -I../deps/include/gl -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\Client_C___Version_.dir\\CommandInt.c.obj -c \"F:\\VS Code Projects\\C\\Client C Version\\CommandInt.c\"",
+  "file": "F:/VS Code Projects/C/Client C Version/CommandInt.c"
+}
+]

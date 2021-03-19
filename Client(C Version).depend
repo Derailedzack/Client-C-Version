@@ -1,0 +1,1136 @@
+# depslib dependency file v1.0
+1597111793 source:c:\users\admin\downloads\codeblocksprojects\client(c version)\audio.c
+	"Audio.h"
+
+1595742140 c:\users\admin\downloads\codeblocksprojects\client(c version)\audio.h
+
+1603480588 source:c:\users\admin\downloads\codeblocksprojects\client(c version)\client_log.c
+	"Client_log.h"
+
+1604368654 c:\users\admin\downloads\codeblocksprojects\client(c version)\client_log.h
+	<stdio.h>
+	<stdarg.h>
+
+1592790332 source:c:\users\admin\downloads\codeblocksprojects\client(c version)\clist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stdint.h>
+	"clist.h"
+
+1592790332 c:\users\admin\downloads\codeblocksprojects\client(c version)\clist.h
+
+1595790187 source:c:\users\admin\downloads\codeblocksprojects\client(c version)\cutesound.c
+	"CuteSound.h"
+
+1595790125 c:\users\admin\downloads\codeblocksprojects\client(c version)\cutesound.h
+
+1614269287 source:c:\users\admin\downloads\codeblocksprojects\client(c version)\client.c
+	"Client.h"
+
+1609134240 c:\users\admin\downloads\codeblocksprojects\client(c version)\client.h
+	<SDL_net.h>
+	<stdio.h>
+	<stdbool.h>
+
+1451807846 c:\users\admin\downloads\sdl2_net-devel-2.0.1-mingw.tar\sdl2_net-devel-2.0.1-mingw\sdl2_net-2.0.1\i686-w64-mingw32\include\sdl2\sdl_net.h
+	<stdint.h>
+	"SDL.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_config.h
+	"SDL_platform.h"
+
+1583890677 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\begin_code.h
+
+1583890678 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\close_code.h
+
+1583890677 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1583890678 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1583890677 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1583890677 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\admin\downloads\sdl2-devel-2.0.12-mingw.tar\sdl2-devel-2.0.12-mingw\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1614610553 source:c:\users\admin\downloads\codeblocksprojects\client(c version)\entity.c
+	<lauxlib.h>
+	"Entity.h"
+
+1605281520 c:\users\admin\downloads\qemu\lua-5.4.2.tar\lua-5.4.2\src\lauxlib.h
+	<stddef.h>
+	<stdio.h>
+	"lua.h"
+
+1605281522 c:\users\admin\downloads\qemu\lua-5.4.2.tar\lua-5.4.2\src\lua.h
+	<stdarg.h>
+	<stddef.h>
+	"luaconf.h"
+
+1605281522 c:\users\admin\downloads\qemu\lua-5.4.2.tar\lua-5.4.2\src\luaconf.h
+	<limits.h>
+	<stddef.h>
+	<stdint.h>
+	<assert.h>
+
+1614272681 c:\users\admin\downloads\codeblocksprojects\client(c version)\entity.h
+	<stdbool.h>
+	<SDL.h>
+	"lauxlib.h"
+	<lua.h>
+	"cute_c2.h"
+
+1614275243 source:c:\users\admin\downloads\codeblocksprojects\client(c version)\entitycollisiontest.c
+	"EntityCollisionTest.h"
+	"cute_c2.h"
+
+1614261576 c:\users\admin\downloads\codeblocksprojects\client(c version)\entitycollisiontest.h
+	"Entity.h"
+	"Player.h"
+	"cute_c2.h"
+	<glad\glad.h>
+	<GL/glew.h>
+
+1614612714 c:\users\admin\downloads\codeblocksprojects\client(c version)\player.h
+	"Entity.h"
+	"Window.h"
+	"SDL2_Window.h"
+	"Inventory.h"
+	<stdio.h>
+	"LuaUtils.h"
+	<glad/glad.h>
+	<gl/glew.h>
+	<stdlib.h>
+	"Client_log.h"
+	"EntityCollisionTest.h"
+	"cute_c2.h"
+
+1614211243 c:\users\admin\downloads\codeblocksprojects\client(c version)\window.h
+	<stdbool.h>
+
+1610780361 c:\users\admin\downloads\codeblocksprojects\client(c version)\sdl2_window.h
+	<stdbool.h>
+	"Window.h"
+	"RenderEntities.h"
+	"RenderDebug.h"
+	"Client.h"
+	<SDL.h>
+	<glad/glad.h>
+	"gl/glew.h"
+	<lua.h>
+	<lauxlib.h>
+	<lualib.h>
+
+1595742140 c:\users\admin\downloads\codeblocksprojects\client(c version)\renderentities.h
+	"Render.h"
+	"Player.h"
+
+1595742140 c:\users\admin\downloads\codeblocksprojects\client(c version)\render.h
+
+1603802715 c:\users\admin\downloads\codeblocksprojects\client(c version)\renderdebug.h
+	"SDL2_Inventory.h"
+
+1603462895 c:\users\admin\downloads\codeblocksprojects\client(c version)\sdl2_inventory.h
+	"SDL2_Window.h"
+	"Inventory.h"
+
+1602680098 c:\users\admin\downloads\codeblocksprojects\client(c version)\inventory.h
+
+1593058224 c:\users\admin\downloads\glad\include\glad\glad.h
+	<KHR/khrplatform.h>
+
+1593058224 c:\users\admin\downloads\glad\include\khr\khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1605281522 c:\users\admin\downloads\qemu\lua-5.4.2.tar\lua-5.4.2\src\lualib.h
+	"lua.h"
+
+1614631998 c:\users\admin\downloads\codeblocksprojects\client(c version)\luautils.h
+	<stdbool.h>
+	<unistd.h>
+	<errno.h>
+	"lua.h"
+	"lualib.h"
+	"lauxlib.h"
+	"readline/readline.h"
+	"GLWarpper.h"
+	"UserdataTest.h"
+
+1595742140 c:\users\admin\downloads\codeblocksprojects\client(c version)\glwarpper.h
+	<glad/glad.h>
+	<lua.h>
+	<stdio.h>
+
+1614631736 c:\users\admin\downloads\codeblocksprojects\client(c version)\userdatatest.h
+	<lua.h>
+	<lauxlib.h>
+	<lualib.h>
+	"LuaUtils.h"
+	"Entity.h"
+
+1604381079 c:\users\admin\downloads\codeblocksprojects\client(c version)\cute_c2.h
+	<string.h>
+	<math.h>
+	<float.h>
+
+1614221553 source:c:\users\admin\downloads\codeblocksprojects\client(c version)\commandint.c
+	"CommandInt.h"
+	"readline/readline.h"
+	"SDL2_Window.h"
+
+1612586868 c:\users\admin\downloads\codeblocksprojects\client(c version)\commandint.h
+	<stdio.h>
+	"clist.h"
+
+1595742139 source:c:\users\admin\downloads\codeblocksprojects\client(c version)\entityloader.c
+	"EntityLoader.h"
+
+1597111698 c:\users\admin\downloads\codeblocksprojects\client(c version)\entityloader.h
+	"Entity.h"
+	<stdio.h>
+	<Windows.h>
+
+1595742139 source:c:\users\admin\downloads\codeblocksprojects\client(c version)\entitystate.c
+	"EntityState.h"
+
+1595742140 c:\users\admin\downloads\codeblocksprojects\client(c version)\entitystate.h
+
+1614272730 source:c:\users\admin\downloads\codeblocksprojects\client(c version)\entityutils.c
+	"EntityUtils.h"
+
+1612568215 c:\users\admin\downloads\codeblocksprojects\client(c version)\entityutils.h
+	<stdio.h>
+	"clist.h"
+
+1598152358 source:c:\users\admin\downloads\codeblocksprojects\client(c version)\gamestate.c
+	"GameState.h"
+
+1612586011 c:\users\admin\downloads\codeblocksprojects\client(c version)\gamestate.h
+
+1614220839 source:c:\users\admin\downloads\codeblocksprojects\client(c version)\gdidisplay.c
+	"GDIDisplay.h"
+
+1611338677 c:\users\admin\downloads\codeblocksprojects\client(c version)\gdidisplay.h
+	<Windows.h>
+
+1595796988 source:c:\users\admin\downloads\codeblocksprojects\client(c version)\glwarpper.c
+	"GLWarpper.h"
+
+1605987330 source:c:\users\admin\downloads\codeblocksprojects\client(c version)\iniconfig.c
+	"INIConfig.h"
+
+1599530221 c:\users\admin\downloads\codeblocksprojects\client(c version)\iniconfig.h
+	<stdio.h>
+	<string.h>
+	<errno.h>
+
+1602680154 source:c:\users\admin\downloads\codeblocksprojects\client(c version)\inventory.c
+	"Inventory.h"
+
+1614308326 source:c:\users\admin\downloads\codeblocksprojects\client(c version)\itemlua.c
+	"itemLUA.h"
+
+1595742140 c:\users\admin\downloads\codeblocksprojects\client(c version)\itemlua.h
+	"lua.h"
+
+1610371173 source:c:\users\admin\downloads\codeblocksprojects\client(c version)\levelloader.c
+	<memory.h>
+	<stdlib.h>
+	"LevelLoader.h"
+
+1606545075 c:\users\admin\downloads\codeblocksprojects\client(c version)\levelloader.h
+	<stdio.h>
+
+1598155161 source:c:\users\admin\downloads\codeblocksprojects\client(c version)\luagamestate.c
+
+1614642580 source:c:\users\admin\downloads\codeblocksprojects\client(c version)\luautils.c
+	"LuaUtils.h"
+
+1614407852 source:c:\users\admin\downloads\codeblocksprojects\client(c version)\main.c
+	"Main.h"
+	"EntityLoader.h"
+	"Client.h"
+	<stdio.h>
+	"GDIDisplay.h"
+	"SDL2_Window.h"
+	"Player.h"
+	"LuaUtils.h"
+	"LevelLoader.h"
+	<signal.h>
+	<unistd.h>
+	<string.h>
+	"CuteSound.h"
+	"TestLevel.h"
+	"Client.h"
+	"Modloader.h"
+	"CommandInt.h"
+
+1611587120 c:\users\admin\downloads\codeblocksprojects\client(c version)\main.h
+	"Client_log.h"
+
+1599357736 c:\users\admin\downloads\codeblocksprojects\client(c version)\testlevel.h
+	"LevelLoader.h"
+	<string.h>
+	<assert.h>
+
+1604322445 c:\users\admin\downloads\codeblocksprojects\client(c version)\modloader.h
+	<Windows.h>
+	"Client.h"
+
+1609134252 source:c:\users\admin\downloads\codeblocksprojects\client(c version)\modloader.c
+	<stdio.h>
+	"Modloader.h"
+
+1614605527 source:c:\users\admin\downloads\codeblocksprojects\client(c version)\player.c
+	"Player.h"
+	<stdlib.h>
+
+1603808316 source:c:\users\admin\downloads\codeblocksprojects\client(c version)\renderdebug.c
+	"RenderDebug.h"
+
+1604381638 source:c:\users\admin\downloads\codeblocksprojects\client(c version)\renderentities.c
+	"RenderEntities.h"
+
+1609766735 source:c:\users\admin\downloads\codeblocksprojects\client(c version)\renderui.c
+	"RenderUI.h"
+
+1613744952 source:c:\users\admin\downloads\codeblocksprojects\client(c version)\script.c
+	"Script.h"
+
+1613744603 c:\users\admin\downloads\codeblocksprojects\client(c version)\script.h
+
+1603496297 source:c:\users\admin\downloads\codeblocksprojects\client(c version)\sdl2_inventory.c
+	"SDL2_Inventory.h"
+
+1614605781 source:c:\users\admin\downloads\codeblocksprojects\client(c version)\sdl2_window.c
+	"SDL2_Window.h"
+	"nuklear.h"
+	"CommandInt.h"
+
+1604369471 c:\users\admin\downloads\codeblocksprojects\client(c version)\nuklear.h
+	<stdarg.h>
+	<sal.h>
+	<stdint.h>
+	<stdbool.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<assert.h>
+	<stdlib.h>
+	<assert.h>
+	"stb_truetype.h"
+	<stdio.h>
+	"stb_truetype.h"
+	<math.h>
+	<math.h>
+	<math.h>
+	<math.h>
+	<math.h>
+	<stdlib.h>
+	<assert.h>
+	<string.h>
+	<string.h>
+
+1614290017 source:c:\users\admin\downloads\codeblocksprojects\client(c version)\sdlsound.c
+	"SDLSound.h"
+
+1595742140 c:\users\admin\downloads\codeblocksprojects\client(c version)\sdlsound.h
+	<SDL.h>
+
+1609767088 source:c:\users\admin\downloads\codeblocksprojects\client(c version)\test_item.c
+	"test_item.h"
+
+1595742140 c:\users\admin\downloads\codeblocksprojects\client(c version)\test_item.h
+	<windows.h>
+
+1610778152 source:c:\users\admin\downloads\codeblocksprojects\client(c version)\testlevel.c
+	"TestLevel.h"
+
+1614739438 source:c:\users\admin\downloads\codeblocksprojects\client(c version)\userdatatest.c
+	"UserdataTest.h"
+
+1595742140 source:c:\users\admin\downloads\codeblocksprojects\client(c version)\window.c
+	"Window.h"
+
+1595742140 source:c:\users\admin\downloads\codeblocksprojects\client(c version)\windowloader.c
+	"WindowLoader.h"
+
+1595742140 c:\users\admin\downloads\codeblocksprojects\client(c version)\windowloader.h
+	"Window.h"
+
+1605281520 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\lua\lauxlib.h
+	<stddef.h>
+	<stdio.h>
+	"lua.h"
+
+1605281522 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\lua\lua.h
+	<stdarg.h>
+	<stddef.h>
+	"luaconf.h"
+
+1605281522 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\lua\lualib.h
+	"lua.h"
+
+1583890677 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1583890677 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\begin_code.h
+
+1583890678 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\close_code.h
+
+1583890677 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1583890678 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1583890677 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1583890677 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890677 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890678 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1605281522 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\lua\luaconf.h
+	<limits.h>
+	<stddef.h>
+	<stdint.h>
+	<assert.h>
+
+1593058224 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\gl\glad\glad.h
+	<KHR/khrplatform.h>
+
+1593058224 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\gl\khr\khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1451807846 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\sdl2\sdl_net.h
+	<stdint.h>
+	"SDL.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1604281789 c:\users\admin\downloads\codeblocksprojects\client(c version)\renderui.h
+
+1610779158 c:\users\admin\downloads\codeblocksprojects\client(c version)\deps\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1611338358 source:c:\users\admin\downloads\codeblocksprojects\client(c version)\scripts\test.s
+
+1614259666 source:c:\users\admin\downloads\codeblocksprojects\client(c version)\config.c
+	"Config.h"
+
+1614209482 c:\users\admin\downloads\codeblocksprojects\client(c version)\config.h
+	"Window.h"
+	<stdio.h>
+	<stdlib.h>
+
+1612586888 source:c:\users\admin\downloads\codeblocksprojects\client(c version)\optionsdlg.cpp
+	"OptionsDLG.h"
+	<wx/intl.h>
+	<wx/string.h>
+
+1612586843 c:\users\admin\downloads\codeblocksprojects\client(c version)\optionsdlg.h
+	<wx/button.h>
+	<wx/choice.h>
+	<wx/dialog.h>
+	<wx/stattext.h>
+
+1614289989 source:c:\users\admin\downloads\codeblocksprojects\client(c version)\ui_test.c
+	"ui_test.h"
+
+1614308317 c:\users\admin\downloads\codeblocksprojects\client(c version)\ui_test.h
+
+1614308200 source:c:\users\admin\downloads\codeblocksprojects\client(c version)\uiutils.c
+	"UIutils.h"
+
+1614291597 c:\users\admin\downloads\codeblocksprojects\client(c version)\uiutils.h
+
